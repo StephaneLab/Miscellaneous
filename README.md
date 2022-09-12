@@ -1,2 +1,3 @@
 # Miscellaneous
 Curiosites, old things, ...
+1) An archive of GNU-Step / AFTERSTEP ols XPL icons. Found on a CD of the slackware distribution from september 1997. May be of some use so I provide them here, I suppose their original licence is GPL.
